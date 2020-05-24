@@ -97,7 +97,6 @@ class NebNodeProfitSharing
 		}
 	}
 
-
 	/*
 	 * Notes
 	 *  How to get how much NAS each address should receive
